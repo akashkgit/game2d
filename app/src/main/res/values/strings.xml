@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">flightApp</string>
+    <string name="cloud">movingclouds</string>
+    <string name="finalMessage">Crashed!Cat is dead :-|</string>
+    <string name="mainSize">30dp</string>
+    <string name="openMessage">Play the game</string>
+</resources>
